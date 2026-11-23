@@ -1,0 +1,4 @@
+models/checkpoints/
+models/beto-bulos/
+__pycache__/
+.ipynb_checkpoints/

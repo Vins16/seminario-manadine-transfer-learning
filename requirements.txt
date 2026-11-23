@@ -1,0 +1,15 @@
+# librerías seminario
+pandas>=2.0
+openpyxl
+numpy
+matplotlib
+seaborn
+wordcloud
+stop-words
+scikit-learn>=1.3
+joblib
+torch
+transformers>=4.46
+datasets
+accelerate
+sentence-transformers>=3.0
